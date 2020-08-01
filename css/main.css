@@ -604,3 +604,58 @@ footer p {
 	font-size: 36px;
 	line-height: 44px;
 }
+
+/*chelgu.html*/
+
+.main__part {
+	background-image: url("../images/image 4.png");
+	height: 531px;
+	padding-top: 206px;
+}
+
+.university__head {
+	height: 275px;
+	background-image: url("../images/Rectangle 25.png");
+	padding-top: 50px;
+}
+
+.headline {
+	height: 80px;
+
+	background-image: url("../images/Rectangle 26.png");
+}
+
+.headline__text {
+	position: absolute;
+	width: 295px;
+	height: 44px;
+
+	color: black;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	line-height: 44px;
+}
+
+.block {
+	height: 500px;
+	padding-top: 46px;
+	background-image: url("../images/Rectangle 27.png");
+}
+
+.faculties {
+
+}
+
+#filial {
+	
+	padding: 55px;
+	margin-left: 20px;
+	float: left;
+	background-color: #C4C4C4;
+	height: 45px;
+	width: 209px;
+	border-radius: 15px;
+	color: white;
+}
